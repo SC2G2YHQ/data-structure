@@ -9,5 +9,6 @@
 #define OVERFLOW	-2
 
 typedef int Status;
+typedef int Bool;
 
 #endif
