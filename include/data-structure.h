@@ -1,5 +1,4 @@
-#ifndef STATUSCODE
-#define STATUSCODE
+#pragma once
 
 #define TRUE	1
 #define FLASE	0
@@ -11,4 +10,3 @@
 typedef int Status;
 typedef int Bool;
 
-#endif
